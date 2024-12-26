@@ -1,4 +1,8 @@
-# Pokémon Yellow Legacy
+# Pokémon Let's Go Yellow
+
+This is a fork from Pokémon Yellow Legacy by TheSmithPlays. The goal is to polish and rebalance a few aspects of the original ROM hack while providing some new features such as the ability to choose more Starters, early EXP.ALL, potentially add new types as featured in the Let's Go remakes, and so on.
+
+# Original README from Pokémon Yellow Legacy
 
 The Yellow Legacy project is the prequel to [Crystal Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy) by content creator Patrick Smith ([TheSmithPlays](https://www.youtube.com/@TheSmithPlays)), and the second project in his planned Legacy series. It is based on [the Pokémon Yellow Disassembly](https://github.com/pret/pokeyellow). The Legacy project is focused on changing the base game in a way that adds quality of life additions and better balancing with the benefit of twenty years of hindsight. The primary goal of each mod is to keep the original feeling of the game while still making meaningful improvements for the player. This means that certain idiosyncrasies of the first generation of Pokémon games will remain, as they are considered an essential aspect to the core experience.
 
